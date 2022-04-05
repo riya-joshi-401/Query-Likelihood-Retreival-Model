@@ -1,0 +1,45 @@
+CACM-3175
+----------------------------------------------------
+breaking substitution ciphers using a relaxation algorithm 
+substitution ciphers are codes in which each LETTER 
+of the alphabet has one fixed substitute and the word divisions 
+do not change in this paper the problem of breaking substitution 
+
+
+
+CACM-3176
+----------------------------------------------------
+storing a sparse table 
+the problem of storing and searching large sparse tables is ubiquitous in 
+computer science the standard technique for storing such tables is 
+hashing but hashing has poor worst case performance we propose 
+
+
+
+CACM-3177
+----------------------------------------------------
+how to share a secret 
+in this paper we show how to divide data d into 
+n pieces in such a way that d is easily reconstructable from any 
+k pieces but even complete knowledge of k 1 pieces reveals 
+
+
+
+CACM-3178
+----------------------------------------------------
+introduction to the eft symposium 
+CACM december 1979 
+kling r 
+ca791201 db february 21 1980 5 02 pm 
+
+
+
+CACM-3179
+----------------------------------------------------
+overview of the eft symposium 
+it is increasingly recognized that large scale technologies such as eft 
+have the potential for aiding in the solution of current societal problems 
+yet these technologies also generate problems this symposium 
+
+
+

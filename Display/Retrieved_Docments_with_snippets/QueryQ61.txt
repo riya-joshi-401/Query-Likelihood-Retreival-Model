@@ -1,0 +1,45 @@
+CACM-3156
+----------------------------------------------------
+computing connected components on parallel computers 
+we present a parallel algorithm which uses n2 processors to find the connected 
+components of an undirected GRAPH with n vertices in time o log2n an 
+o log2n time bound also can be achieved using only n n log2n processors 
+
+
+
+CACM-3157
+----------------------------------------------------
+such that the value of the termination function is repeatedly reduced 
+ordering is used to prove the termination of production systems 
+a common tool for proving the termination of programs is the well founded 
+the values of the program variables into some well founded set 
+
+
+
+CACM-3158
+----------------------------------------------------
+with one or more central facilities is proposed the METHOD employs a 
+for his own security and need not rely on the security of 
+store confidential files in the central facility or transmit confidential 
+data to other users on the network 
+
+
+
+CACM-3160
+----------------------------------------------------
+technology also participating in the workshop were representatives 
+computer science departments in the nation were asked 
+a version of the current report dated january 15 was circulated to these 
+of the report 
+
+
+
+CACM-3161
+----------------------------------------------------
+an acm executive committee position on the crisis 
+in experimental computer science 
+cacm september 1979 
+mccracken d ccp 
+
+
+

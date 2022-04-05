@@ -1,0 +1,45 @@
+CACM-3176
+----------------------------------------------------
+storing a sparse table 
+the problem of storing and searching large sparse tables is ubiquitous in 
+computer science the standard technique for storing such tables is 
+hashing but hashing has poor worst case performance we propose 
+
+
+
+CACM-3177
+----------------------------------------------------
+how to share a secret 
+in this paper we show how to divide DATA d into 
+n pieces in such a way that d is easily reconstructable from any 
+k pieces but even complete knowledge of k 1 pieces reveals 
+
+
+
+CACM-3178
+----------------------------------------------------
+introduction to the eft symposium 
+cacm december 1979 
+kling r 
+ca791201 db february 21 1980 5 02 pm 
+
+
+
+CACM-3179
+----------------------------------------------------
+overview of the eft symposium 
+it is increasingly recognized that large scale technologies such as eft 
+have the potential for aiding in the solution of current societal problems 
+yet these technologies also generate problems this symposium 
+
+
+
+CACM-3180
+----------------------------------------------------
+costs of the current u payments SYSTEM 
+neither the banking industry nor 
+public policy makers have good information on the comparative costs 
+of alternative payment systems such as cash checks credit cards 
+
+
+

@@ -1,0 +1,45 @@
+CACM-3137
+----------------------------------------------------
+system from the perspective of the end user the making evident the effect of 
+a methodology for the design of distributed information systems 
+describes the major costs of using an information 
+of an interactive transaction processing system 
+
+
+
+CACM-3139
+----------------------------------------------------
+new methods to color the vertices of a graph 
+methods to color the vertices of a graph which rely 
+upon the comparison of the degrees and structure of a graph a method 
+than the randall brown algorithm and is able to color larger 
+
+
+
+CACM-3140
+----------------------------------------------------
+social processes and proofs of theorems and programs 
+it is argued that formal verifications of 
+same key role in the development of computer science and software 
+specification of significantly many real programs make the FORM 
+
+
+
+CACM-3141
+----------------------------------------------------
+in circular configurations of processes 
+algorithm for finding the largest or smallest of a set of uniquely 
+controller exists and the number of processes is not known a priori 
+this decentralized algorithm uses a technique of selective 
+
+
+
+CACM-3142
+----------------------------------------------------
+management systems may be adequate RESULTS of the survey raise 
+concerns about the timeliness and the number of designs of very 
+from such data RESULTS show that with the present state of the 
+is the reaction of consumers to errors to a failure to correct 
+
+
+

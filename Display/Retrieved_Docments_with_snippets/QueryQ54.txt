@@ -1,0 +1,45 @@
+CACM-3157
+----------------------------------------------------
+such that the value of the termination function is repeatedly reduced 
+ordering is used to prove the termination of production systems 
+a common tool for proving the termination of programs is the well founded 
+the values of the PROGRAM variables into some well founded SET 
+
+
+
+CACM-3158
+----------------------------------------------------
+with one or more central facilities is proposed the method employs a 
+for his own security and need not rely on the security of 
+store confidential files in the central facility or transmit confidential 
+DATA to other users on the network 
+
+
+
+CACM-3159
+----------------------------------------------------
+further remark on stably updating mean and standard deviation estimates 
+cacm august 1979 
+nelson l 
+mean standard deviation 
+
+
+
+CACM-3164
+----------------------------------------------------
+progressive acyclic digraphs a tool for database integrity 
+a progressive acyclic digraph pad algorithm accepts are requests and 
+maintains a graph in an acyclic state when a request creates a cycle 
+nodes are detached until the new are can be entered acyclically 
+
+
+
+CACM-3165
+----------------------------------------------------
+organization eliminating the need for the recognition of region boundaries 
+the approximation of polygonal thematic maps by cellular 
+each segment is examined only once the versatility of 
+approximation of polygonal maps by cellular maps 
+
+
+

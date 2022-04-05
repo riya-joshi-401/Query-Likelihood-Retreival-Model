@@ -1,0 +1,45 @@
+CACM-3173
+----------------------------------------------------
+a psychology of learning basic 
+following learning of basic programming several underlying conceptual 
+at some location 2 a prestatement is a set of transactions corresponding 
+to a line of code 3 chunks are frequently occurring 
+
+
+
+CACM-3174
+----------------------------------------------------
+to penetrate the system the result is a compromise between 
+this paper describes the history of the design of the password 
+the present design was the result of countering observed attempts 
+password security a case history 
+
+
+
+CACM-3175
+----------------------------------------------------
+breaking substitution ciphers using a relaxation ALGORITHM 
+substitution ciphers are codes in which each letter 
+of the alphabet has one fixed substitute and the word divisions 
+do not CHANGE in this paper the problem of breaking substitution 
+
+
+
+CACM-3176
+----------------------------------------------------
+storing a sparse table 
+the problem of storing and searching large sparse tables is ubiquitous in 
+computer science the standard technique for storing such tables is 
+hashing but hashing has poor worst case performance we propose 
+
+
+
+CACM-3177
+----------------------------------------------------
+how to share a secret 
+in this paper we show how to divide data d into 
+n pieces in such a way that d is easily reconstructable from any 
+k pieces but even complete knowledge of k 1 pieces reveals 
+
+
+

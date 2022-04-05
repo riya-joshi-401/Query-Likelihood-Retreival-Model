@@ -1,0 +1,45 @@
+CACM-2704
+----------------------------------------------------
+exception handling issues and a proposed notation 
+this paper defines exception conditions discusses 
+the requirements exception handling LANGUAGE 
+features must satisfy and proposes some new LANGUAGE 
+
+
+
+CACM-2705
+----------------------------------------------------
+of general utility and studies of questions 
+programming LANGUAGES natural LANGUAGES and mathematics 
+some social aspects of programming are illuminated 
+through analogies with similar aspects of 
+
+
+
+CACM-2708
+----------------------------------------------------
+practical syntactic error recovery 
+this paper describes a recovery scheme for syntax 
+errors which provides automatically generated 
+HIGH quality recovery with good diagnostic information 
+
+
+
+CACM-2714
+----------------------------------------------------
+parallel processing parallel merging parallel binary insertion 
+for merging a and b with the p parallel processors 
+merging with parallel processors 
+b n m n and p p m parallel processors 
+
+
+
+CACM-2716
+----------------------------------------------------
+optimizing the performance of a relational algebra database interface 
+the basic idea is to employ automatic programming techniques 
+so that the interface analyzes and efficiently 
+refines the HIGH LEVEL query specification supplied by 
+
+
+

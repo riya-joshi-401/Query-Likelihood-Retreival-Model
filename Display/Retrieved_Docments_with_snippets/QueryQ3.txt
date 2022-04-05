@@ -1,0 +1,45 @@
+CACM-3149
+----------------------------------------------------
+the cyclic order property of vertices as an aid in scene analysis 
+a cyclic order property is defined for bodies bounded by smooth curved faces 
+the property is shown to be useful for analyzing pictures of such bodies 
+particularly when the line data extracted from the pictures are imperfect 
+
+
+
+CACM-3151
+----------------------------------------------------
+an optimal real time algorithm for planar convex hulls 
+an algorithm is described for the CONSTRUCTION in real time of the 
+convex hull of a set of n points in the plane using an appropriate data 
+structure the algorithm constructs the convex hull by successive 
+
+
+
+CACM-3155
+----------------------------------------------------
+the paradigms of programming 
+cacm august 1979 
+floyd r 
+ca790801 db january 4 1980 11 44 am 
+
+
+
+CACM-3156
+----------------------------------------------------
+computing connected components on parallel computers 
+we present a parallel algorithm which uses n2 processors to find the connected 
+components of an undirected graph with n vertices in time o log2n an 
+o log2n time bound also can be achieved using only n n log2n processors 
+
+
+
+CACM-3157
+----------------------------------------------------
+such that the value of the termination function is repeatedly reduced 
+ordering is used to prove the termination of production systems 
+a common tool for proving the termination of programs is the well founded 
+the values of the program variables into some well founded set 
+
+
+

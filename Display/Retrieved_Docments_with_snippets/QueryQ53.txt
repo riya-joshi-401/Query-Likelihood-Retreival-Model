@@ -1,0 +1,45 @@
+CACM-2941
+----------------------------------------------------
+early experience with mesa 
+the experiences of mesa s first users primarily 
+its implementers are discussed and some implications 
+for mesa and similar programming languages are suggested 
+
+
+
+CACM-2942
+----------------------------------------------------
+an algol based implementation of snobol 4 patterns 
+cacm july 1977 
+brownlee j n 
+patterns snobol 4 pattern matching string processing 
+
+
+
+CACM-2944
+----------------------------------------------------
+shifting garbage collection overhead to compile time 
+this paper discusses techniques which enable automatic 
+storage reclamation overhead to be partially 
+shifted to compile time the paper assumes a transaction 
+
+
+
+CACM-2947
+----------------------------------------------------
+sitar an interactive text processing system for small computers 
+sitar a low cost in teractive text handling 
+and text analysis system for nontechnical users 
+is in many ways comparable to in teractive bibliographical 
+
+
+
+CACM-2950
+----------------------------------------------------
+of the commonly implemented ones for time invariant 
+algorithms the dependence of processing rates 
+of a scheduling system which formalizes the notion of 
+priority various classes of scheduling algorithms 
+
+
+
