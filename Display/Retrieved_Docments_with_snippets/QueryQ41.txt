@@ -1,0 +1,45 @@
+CACM-3163
+----------------------------------------------------
+oshb binary search tree is presented the ALGORITHM operates in time 
+o log n where n is the number of nodes in 
+time o log 2n moreover the o log n complexity is optimal earlier 
+also be performed in o log n time thus the result of this paper 
+
+
+
+CACM-3164
+----------------------------------------------------
+progressive acyclic digraphs a tool for DATABASE integrity 
+a progressive acyclic digraph pad ALGORITHM accepts are requests and 
+maintains a graph in an acyclic state when a request creates a cycle 
+nodes are detached until the new are can be entered acyclically 
+
+
+
+CACM-3165
+----------------------------------------------------
+organization eliminating the need for the recognition of region boundaries 
+the approximation of polygonal thematic maps by cellular 
+each segment is examined only once the versatility of 
+approximation of polygonal maps by cellular maps 
+
+
+
+CACM-3166
+----------------------------------------------------
+four ALGORITHMS for the numerical computation 
+of the standard deviation of unweighted sampled DATA 
+and computational literature the other two are new ALGORITHMS 
+of the ALGORITHMS one new one old are substantially more accurate 
+
+
+
+CACM-3167
+----------------------------------------------------
+updating mean and variance estimates an improved method 
+a method of improved efficiency 
+is given for updating the mean and variance of weighted sampled DATA 
+when an additional DATA value is included in the set evidence 
+
+
+

@@ -1,0 +1,45 @@
+CACM-3113
+----------------------------------------------------
+optimal conversion of extended entry 
+decision tables with general cost criteria 
+a general dynamic programming ALGORITHM for converting 
+limited extended or mixed entry decision 
+
+
+
+CACM-3118
+----------------------------------------------------
+a common internal organization of bubble memories consists of a set of minor 
+permutation of data blocks in a bubble memory 
+loops connected through another major loop the problem of obtaining any 
+give n permutation of the minor loop contents in minimum time is studied 
+
+
+
+CACM-3121
+----------------------------------------------------
+derivation of more complex source to source transformations are also 
+syntactic source to source transforms and program manipulation 
+syntactic transforms are the source to source program transformations 
+and semantic source to source transformations may be used for 
+
+
+
+CACM-3127
+----------------------------------------------------
+thoth a portable real time operating system 
+thoth isa real time operating system which is designed to be portable 
+over a large set of machines it is currently running on two minicomputers 
+with quite different architectures both the system and application 
+
+
+
+CACM-3131
+----------------------------------------------------
+focus microcomputer NUMBER system 
+focus is a NUMBER system and supporting computational 
+ALGORITHMS ESPECIALLY useful for microcomputer control and other 
+signal processing applications focus has the wide ranging 
+
+
+

@@ -1,0 +1,45 @@
+CACM-3144
+----------------------------------------------------
+a model for and discussion of multi interpreter systems 
+a multi interpreter system is a system in which programs execute 
+by virtue of being interpreted by other programs which themselves may 
+either be interpreted i e nested interpreters or run directly on 
+
+
+
+CACM-3150
+----------------------------------------------------
+algorithms towards the description of the properties of the packages 
+and objects with which we build this paper analyzes some of the 
+leading to basic changes in the nature of programming current programming 
+systems of the complexity called for by the tasks we attempt just 
+
+
+
+CACM-3155
+----------------------------------------------------
+the paradigms of programming 
+cacm august 1979 
+floyd r 
+ca790801 db january 4 1980 11 44 am 
+
+
+
+CACM-3158
+----------------------------------------------------
+with one or more central facilities is proposed the method employs a 
+for his own security and need not rely on the security of 
+store confidential files in the central facility or transmit confidential 
+data to other users on the network 
+
+
+
+CACM-3159
+----------------------------------------------------
+further remark on stably updating mean and standard deviation estimates 
+cacm august 1979 
+nelson l 
+mean standard deviation 
+
+
+

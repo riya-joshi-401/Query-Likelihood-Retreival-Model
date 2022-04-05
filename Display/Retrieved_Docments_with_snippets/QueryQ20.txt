@@ -1,0 +1,45 @@
+CACM-3108
+----------------------------------------------------
+as the lengths of the strings increase the extra cost 
+small compared to the lengths of the strings 
+string transmission delimiters commas encoding of the integers 
+economical encoding of commas between strings 
+
+
+
+CACM-3113
+----------------------------------------------------
+optimal conversion of extended entry 
+decision tables with general cost criteria 
+a general dynamic programming ALGORITHM for converting 
+limited extended or mixed entry decision 
+
+
+
+CACM-3118
+----------------------------------------------------
+a common internal organization of bubble memories consists of a set of minor 
+permutation of data blocks in a bubble memory 
+loops connected through another major loop the problem of obtaining any 
+give n permutation of the minor loop contents in minimum time is studied 
+
+
+
+CACM-3119
+----------------------------------------------------
+the impact of distributions and disciplines 
+on multiple processor systems 
+simple queueing models are used to study the performance tradeoffs of 
+multiple processor systems issues considered include the impact of cpu 
+
+
+
+CACM-3124
+----------------------------------------------------
+a mathematical study of three approaches for defining nested 
+representations one of the approaches is used to define an 
+level of arrays and new operators to assist in the 
+construction of data driven ALGORITHMS 
+
+
+

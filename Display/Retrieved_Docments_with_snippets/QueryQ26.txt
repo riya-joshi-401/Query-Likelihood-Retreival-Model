@@ -1,0 +1,45 @@
+CACM-3105
+----------------------------------------------------
+a language extension for expressing constraints on data access 
+controlled sharing of information is needed and 
+desirable for many applications and is supported 
+in OPERATING SYSTEMS by access CONTROL MECHANISMS this 
+
+
+
+CACM-3106
+----------------------------------------------------
+a fast algorithm for copying list structures 
+an algorithm is presented for copying an arbitrarily 
+linked list structure into a block of 
+contiguous storage locations without destroying the original 
+
+
+
+CACM-3107
+----------------------------------------------------
+generating beta variates with nonintegrel shape parameters 
+a new rejection method is described for generating 
+beta variates the method is compared with 
+previously published methods both theoretically and through 
+
+
+
+CACM-3108
+----------------------------------------------------
+as the lengths of the strings increase the extra cost 
+small compared to the lengths of the strings 
+string transmission delimiters commas encoding of the integers 
+economical encoding of commas between strings 
+
+
+
+CACM-3110
+----------------------------------------------------
+whose lengths depend on the distance from a given 
+instance of such an instruction to the operand of that 
+instruction this paper considers the problem 
+of minimizing the lengths of programs for such machines 
+
+
+

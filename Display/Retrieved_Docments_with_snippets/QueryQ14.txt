@@ -1,0 +1,45 @@
+CACM-3150
+----------------------------------------------------
+ALGORITHMS towards the description of the properties of the packages 
+and objects with which we build this paper analyzes some of the 
+leading to basic changes in the nature of programming current programming 
+systems of the complexity called for by the tasks we attempt just 
+
+
+
+CACM-3151
+----------------------------------------------------
+an OPTIMAL real time ALGORITHM for planar convex hulls 
+an ALGORITHM is described for the construction in real time of the 
+convex hull of a set of n points in the plane using an appropriate DATA 
+structure the ALGORITHM constructs the convex hull by successive 
+
+
+
+CACM-3152
+----------------------------------------------------
+the technique of strassen to the reorganized DATA the reorganization block 
+the transpose of one of the matrices is available at no additional cost 
+makes possible the derivation of an asymptotically better bound 
+in order to multiply matrices while minimizing 
+
+
+
+CACM-3153
+----------------------------------------------------
+expected response times as functions of the control parameters 
+studied the object is to investigate the effect of the memory 
+the possibility of giving different quality of service to jobs of different 
+the control of response times in multi class 
+
+
+
+CACM-3155
+----------------------------------------------------
+the paradigms of programming 
+cacm august 1979 
+floyd r 
+ca790801 db january 4 1980 11 44 am 
+
+
+

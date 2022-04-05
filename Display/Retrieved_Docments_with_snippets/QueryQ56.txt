@@ -1,0 +1,45 @@
+CACM-3166
+----------------------------------------------------
+four algorithms for the numerical computation 
+of the standard deviation of unweighted sampled data 
+and computational literature the other two are new algorithms 
+of the algorithms one new one old are substantially more accurate 
+
+
+
+CACM-3168
+----------------------------------------------------
+comment on an optimal evaluation of boolean 
+expressions in an online query system 
+cacm october 1979 
+laird p 
+
+
+
+CACM-3169
+----------------------------------------------------
+note on an optimal evaluation of boolean expressions 
+in an online query system 
+cacm october 1979 
+gudes e 
+
+
+
+CACM-3171
+----------------------------------------------------
+line numbers made cheap 
+a technique is described for run time line number administration 
+to be used for implementations of high level LANGUAGES under suitable 
+circumstances this method requires absolutely no overhead 
+
+
+
+CACM-3173
+----------------------------------------------------
+a psychology of learning basic 
+following learning of basic programming several underlying conceptual 
+at some location 2 a prestatement is a set of transactions corresponding 
+to a line of code 3 chunks are frequently occurring 
+
+
+

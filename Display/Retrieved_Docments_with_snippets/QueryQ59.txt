@@ -1,0 +1,45 @@
+CACM-3166
+----------------------------------------------------
+four algorithms for the numerical computation 
+of the standard deviation of unweighted sampled data 
+and computational literature the other two are new algorithms 
+of the algorithms one new one old are substantially more accurate 
+
+
+
+CACM-3167
+----------------------------------------------------
+updating mean and variance estimates an improved METHOD 
+a METHOD of improved efficiency 
+is given for updating the mean and variance of weighted sampled data 
+when an additional data value is included in the set evidence 
+
+
+
+CACM-3168
+----------------------------------------------------
+comment on an optimal evaluation of boolean 
+expressions in an online query system 
+cacm october 1979 
+laird p 
+
+
+
+CACM-3169
+----------------------------------------------------
+note on an optimal evaluation of boolean expressions 
+in an online query system 
+cacm october 1979 
+gudes e 
+
+
+
+CACM-3170
+----------------------------------------------------
+on the proof of correctness of a calendar program 
+a formal specification is given for a simple calendar 
+program and the derivation and proof of correctness of the program are 
+sketched the specification is easy to understand and its correctness is 
+
+
+

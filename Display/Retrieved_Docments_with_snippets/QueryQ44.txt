@@ -1,0 +1,45 @@
+CACM-3137
+----------------------------------------------------
+system from the perspective of the end user the making evident the effect of 
+a methodology for the design of distributed information systems 
+describes the major costs of using an information 
+of an interactive transaction processing system 
+
+
+
+CACM-3140
+----------------------------------------------------
+social processes and proofs of theorems and programs 
+it is argued that formal verifications of 
+same key role in the development of COMPUTER science and software 
+specification of significantly many real programs make the form 
+
+
+
+CACM-3145
+----------------------------------------------------
+an implementation of structured walk throughs 
+in teaching cobol programming 
+the effectiveness of structured 
+walk throughs in teaching introductory cobol programming was empirically 
+
+
+
+CACM-3149
+----------------------------------------------------
+the cyclic order property of vertices as an aid in scene ANALYSIS 
+a cyclic order property is defined for bodies bounded by smooth curved faces 
+the property is shown to be useful for analyzing pictures of such bodies 
+particularly when the line data extracted from the pictures are imperfect 
+
+
+
+CACM-3150
+----------------------------------------------------
+algorithms towards the description of the properties of the packages 
+and objects with which we build this paper analyzes some of the 
+leading to basic changes in the nature of programming current programming 
+systems of the complexity called for by the tasks we attempt just 
+
+
+

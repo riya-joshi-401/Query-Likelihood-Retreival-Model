@@ -1,0 +1,45 @@
+CACM-3161
+----------------------------------------------------
+an acm executive committee position on the crisis 
+in experimental computer science 
+cacm september 1979 
+mccracken d ccp 
+
+
+
+CACM-3162
+----------------------------------------------------
+on improving the worst case running time 
+of the boyer moore string matching algorithm 
+it is shown how to modify the boyer moore string matching algorithm so that 
+its worst case running time is linear even when multiple occurrences of the 
+
+
+
+CACM-3163
+----------------------------------------------------
+oshb binary search tree is presented the algorithm operates in time 
+o log n where n is the number of nodes in 
+time o log 2n moreover the o log n complexity is optimal earlier 
+also be performed in o log n time thus the result of this PAPER 
+
+
+
+CACM-3164
+----------------------------------------------------
+progressive acyclic digraphs a tool for database integrity 
+a progressive acyclic digraph pad algorithm accepts are requests and 
+maintains a graph in an acyclic state when a request creates a cycle 
+nodes are detached until the new are can be entered acyclically 
+
+
+
+CACM-3165
+----------------------------------------------------
+organization eliminating the need for the recognition of region boundaries 
+the approximation of polygonal thematic maps by cellular 
+each segment is examined only once the versatility of 
+approximation of polygonal maps by cellular maps 
+
+
+

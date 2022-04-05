@@ -1,0 +1,45 @@
+CACM-3142
+----------------------------------------------------
+management systems may be adequate results of the survey raise 
+concerns about the timeliness and the number of designs of very 
+from such data results show that with the present state of the 
+is the reaction of consumers to errors to a failure to correct 
+
+
+
+CACM-3143
+----------------------------------------------------
+reasoning about arrays 
+a variety of concepts laws and notations are presented which facilitate 
+reasoning about arrays the basic concepts include intervals and their 
+partitions functional restriction images pointwise extension of relations 
+
+
+
+CACM-3144
+----------------------------------------------------
+a model for and discussion of multi interpreter systems 
+a multi interpreter SYSTEM is a SYSTEM in which programs execute 
+by virtue of being interpreted by other programs which themselves may 
+either be interpreted i e nested interpreters or run directly on 
+
+
+
+CACM-3145
+----------------------------------------------------
+an implementation of structured walk throughs 
+in teaching cobol programming 
+the effectiveness of structured 
+walk throughs in teaching introductory cobol programming was empirically 
+
+
+
+CACM-3149
+----------------------------------------------------
+the cyclic order property of vertices as an aid in scene analysis 
+a cyclic order property is defined for bodies bounded by smooth curved faces 
+the property is shown to be useful for analyzing pictures of such bodies 
+particularly when the line data extracted from the pictures are imperfect 
+
+
+

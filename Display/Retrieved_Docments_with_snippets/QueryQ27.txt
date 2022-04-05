@@ -1,0 +1,45 @@
+CACM-3125
+----------------------------------------------------
+to move each expression directly to the entrance of the outermost 
+information or restrictions on the shape of the program graph 
+linear with the size of the program and that it leads 
+the elimination of redundant computations and the moving of invariant 
+
+
+
+CACM-3127
+----------------------------------------------------
+thoth a portable real time OPERATING SYSTEM 
+thoth isa real time OPERATING SYSTEM which is designed to be portable 
+over a large set of machines it is currently running on two minicomputers 
+with quite different architectures both the SYSTEM and application 
+
+
+
+CACM-3128
+----------------------------------------------------
+examples of its use are given the relationship of the mechanism 
+to control the ordering of events directly rather than using mutual 
+ordering of events in the processes 
+exclusion to protect manipulations of shared variables that control 
+
+
+
+CACM-3129
+----------------------------------------------------
+optimal storage allocation for serial files 
+a computer SYSTEM uses several serial files the files reside on a 
+direct access storage device in which storage space is limited records are 
+added to the files either by jobs in batch processing mode or by on line 
+
+
+
+CACM-3137
+----------------------------------------------------
+SYSTEM from the perspective of the end user the making evident the effect of 
+a methodology for the design of distributed information SYSTEMS 
+describes the major costs of using an information 
+of an interactive transaction processing SYSTEM 
+
+
+

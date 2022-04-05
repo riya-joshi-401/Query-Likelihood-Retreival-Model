@@ -1,0 +1,45 @@
+CACM-3085
+----------------------------------------------------
+this paper discusses the COMPUTATION of matrix 
+chain products of the form m1 x m2 x x mn 
+are computed affects the number of operations 
+a sufficient condition about the association of the 
+
+
+
+CACM-3086
+----------------------------------------------------
+on the complexity of computing the measure of u ai bi 
+measure of the union of n possibly overlapping 
+discussing the effects of the computational model on 
+between linear functions of the interval endpoints 
+
+
+
+CACM-3091
+----------------------------------------------------
+some basic determinants of computer programming productivity 
+the propose of this research was to examine 
+the relationship between processing characteristics 
+of programs and experience characteristics of programmers 
+
+
+
+CACM-3092
+----------------------------------------------------
+much of the total resources of systems and programming 
+statistical package the results of the analysis indicate 
+software consume a major portion of the total life 
+maintenance and enhancement of application 
+
+
+
+CACM-3093
+----------------------------------------------------
+automatic error recovery for lr parsers 
+in this paper we present a scheme for detecting 
+and recovering from syntax errors in programs 
+the scheme which is based on lr parsing is driven 
+
+
+
