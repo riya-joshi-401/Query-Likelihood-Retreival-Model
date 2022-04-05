@@ -1,1 +1,1 @@
-# Query-Likelihood-Retreival-Model
+# Query-Likelihood-Retrieval-Model
